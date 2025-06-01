@@ -102,3 +102,6 @@ The dataset used was the Cleveland Heart Dataset accessible from the UCI reposit
         </td> 
     </tr> 
 </table><br> 
+
+## Results: <br> 
+The model was very accurate, achieving an accuracy of 100% on the test data. On the website for the dataset, the most accurate model had an accuracy of 89.474%, making this model a significant improvement in terms of accuracy and an effective tool to classify the presence of heart disease.
