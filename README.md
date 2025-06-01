@@ -39,7 +39,7 @@ The dataset used was the Cleveland Heart Dataset accessible from the UCI reposit
     </tr> 
     <tr> 
         <td>chol </td> 
-        <td>Cholestoral in mg/dl fetched via BMI Sensor</td> 
+        <td>Serum Cholestoral in mg/dl</td> 
     </tr> 
     <tr> 
         <td>fbs </td> 
@@ -71,11 +71,11 @@ The dataset used was the Cleveland Heart Dataset accessible from the UCI reposit
         </td> 
     </tr> 
     <tr> 
-        <td>Oldpeak</td>  
+        <td>oldpeak</td>  
         <td>ST depression induced by exercise relative to rest </td> 
     </tr> 
     <tr> 
-        <td>slp </td> 
+        <td>slope </td> 
         <td>Peak exercise ST segment Slop 
             <li> 0 = Downsloping</li> 
             <li> 1 = Flat</li> 
@@ -83,22 +83,22 @@ The dataset used was the Cleveland Heart Dataset accessible from the UCI reposit
         </td> 
     </tr> 
     <tr> 
-        <td>caa</td>  
-        <td>The number of major vessels (0–3)</td> 
+        <td>ca</td>  
+        <td>The number of major vessels (0–3) colored by flouroscopy</td> 
     </tr> 
     <tr> 
-        <td>thall </td> 
+        <td>thal </td> 
         <td>A blood disorder called Thalassemia 
-            <li> Value 1: fixed defect (no blood flow in some part of the heart)</li> 
-            <li> Value 2: normal blood flow</li> 
+            <li> Value 1: normal blood flow</li>
+            <li> Value 2: fixed defect (no blood flow in some part of the heart)</li> 
             <li> Value 3: reversible defect (a blood flow is observed but it is not normal)</li> 
         </td> 
     </tr> 
     <tr> 
         <td>target </td> 
         <td>Percentage of deliverable volume 
-            <li> 0= less chance of heart attack</li> 
-            <li> 1= more chance of heart attack</li> 
+            <li> 0 = Absence of heart disease</li> 
+            <li> 1 = Presence of heart disease </li> 
         </td> 
     </tr> 
 </table><br> 
