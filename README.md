@@ -7,7 +7,7 @@ Classify the presence or absence of heart disease in a patient based on various 
 Performed exploratory data analysis (EDA) and visualize the data through various plots, and then implemented a Multi-Layer Perceptron (MLP) from scratch using NumPy. 
 
 ## Dataset: <br> 
-The dataset used was the Cleveland Heart Dataset accessible from the UCI repository through the following link: https://archive.ics.uci.edu/ml/datasets/heart+disease. <br> The original dataset consisted of 75 input features and 1 output label, but that was tailored down to 13 features relevant to heart disease prediction. The detailed description of these features is available in the following table: <br><br>
+The dataset used was the Cleveland Heart Dataset accessible from the UCI repository through the following link: https://archive.ics.uci.edu/ml/datasets/heart+disease. <br><br> The original dataset consisted of 75 input features and 1 output label, but that was tailored down to 13 features relevant to heart disease prediction. The detailed description of these features is available in the following table: <br><br>
 
 <table> 
     <tr> 
